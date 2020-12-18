@@ -1,7 +1,8 @@
 <html lang="en"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <link rel="stylesheet" href="main.css">
+   
     <title>Rifki ahmad sofyan</title>
 
 <body class="body" bg color= #222831
@@ -86,7 +87,7 @@
 
   }
 
-</style>>
+</style>
 
     <img src="https://i.ibb.co/jw8R4Gj/20200318-210653-0000.png" alt="rifki ahmad" id="header"> <br>
     <a href="https://www.instagram.com/t.rifkiahmd/">

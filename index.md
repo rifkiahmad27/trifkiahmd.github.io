@@ -25,7 +25,7 @@
   }
 
   #FaceBook {
-      float: right;
+      float: left;
       position: relative;
       width: 40vw;
       margin-top: 3vw;
@@ -33,7 +33,7 @@
   }
 
   #WhastApp {
-      float: left;
+      float: right;
       width: 40vw;
       margin-left: 5vw;
       margin-top: 8vw;

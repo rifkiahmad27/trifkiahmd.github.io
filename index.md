@@ -9,10 +9,7 @@
 <body class="body" bg color= #222831>
 
   <style>
-  body{
-      background-color: #222831 ;
-  }
-
+    
   #header {
      width: 100vw;
   }

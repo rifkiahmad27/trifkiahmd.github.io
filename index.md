@@ -25,7 +25,7 @@
   }
 
   #FaceBook {
-      float: left;
+      float: right;
       position: relative;
       width: 40vw;
       margin-top: 3vw;
@@ -70,7 +70,7 @@
        }
 
        #FaceBook {
-           float: center;
+           float: right;
            position: relative;
            width: 300px;
            margin-top: 3vw;
@@ -78,13 +78,13 @@
        }
 
        #WhastApp {
-          float: left;
+          float: right;
           width: 300px;
           margin-left: 25%;
           margin-top: 3vw;
       }
        #Pinterest {
-         float: center;
+         float: left;
          position: relative;
          width: 300px;
          margin-top: 3vw;

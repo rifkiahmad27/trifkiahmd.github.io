@@ -6,7 +6,7 @@
 
     <title>Rifki ahmad sofyan</title>
 
-<body class="body">
+<body class="body" bg color= #222831>
 
   <style>
   body{

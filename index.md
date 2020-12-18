@@ -6,7 +6,7 @@
 
     <title>Rifki ahmad sofyan</title>
 
-<body>
+<body class="body" bg color= #222831
 
   <style>
       body{
@@ -102,7 +102,7 @@
 
   }
 
-</style>
+</style>>
 
     <img src="https://i.ibb.co/jw8R4Gj/20200318-210653-0000.png" alt="rifki ahmad" id="header"> <br>
     <a href="https://www.instagram.com/t.rifkiahmd/">

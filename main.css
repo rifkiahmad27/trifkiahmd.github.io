@@ -38,6 +38,7 @@
 
   @media screen and (min-width: 1200px){
       #header {
+           position: center;
            display: block;
            margin-left: auto;
            margin-right: auto;

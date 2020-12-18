@@ -4,90 +4,7 @@
     <link rel="stylesheet" href="main.css">
    
     <title>Rifki ahmad sofyan</title>
-
-<body class="body" bg color= #222831
-
-  <style>
-      body{
-      background-color: #222831 ;
-  }
-    
-  #header {
-     width: 100vw;
-  }
-
-  #Instagram {
-      float: left;
-      width: 40vw;
-      margin-left: 5vw;
-      margin-top: 3vw;
-  }
-
-  #FaceBook {
-      float: right;
-      position: relative;
-      width: 40vw;
-      margin-top: 3vw;
-      margin-right: 5vw;
-  }
-
-
-  #pinterest {
-      float: left;
-      width: 40vw;
-      margin-top: 5vw;
-      margin-right: 8vw;
-  }
-
-  #blog {
-     float: right;
-     position: relative;
-     width: 40vw;
-     margin-top: 8vw;
-     margin-right: 5vw;
-  }
-
-  @media screen and (min-width: 1200px){
-      #header {
-           display: block;
-           margin-left: auto;
-           margin-right: auto;
-           width: 800px;
-       }
-
-       #Instagram {
-           float: left;
-           width: 300px;
-           margin-left: 25%;
-           margin-top: 3vw;
-       }
-
-       #FaceBook {
-           float: center;
-           position: relative;
-           width: 300px;
-           margin-top: 3vw;
-           margin-right: 25%;
-       }
-
-       #Pinterest {
-         float: center;
-         position: relative;
-         width: 300px;
-         margin-top: 3vw;
-         margin-right: 25%;
-      }
-
-      #Blog {
-        float: left;
-        width: 300px;
-        margin-top: 25vw;
-        margin-right: 3%;
-      }
-
-  }
-
-</style>
+<body class="body">
 
     <img src="https://i.ibb.co/jw8R4Gj/20200318-210653-0000.png" alt="rifki ahmad" id="header"> <br>
     <a href="https://www.instagram.com/t.rifkiahmd/">
@@ -101,3 +18,8 @@
     </a> <br>
     <a href="https://rifkiquote.blogspot.com/">
         <img src="https://i.ibb.co/6Wcbq87/1187595.jpg" alt="blog link" id="blog">
+        
+        </body>
+        
+        </body>
+        </html>

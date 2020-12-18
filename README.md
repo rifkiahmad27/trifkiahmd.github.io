@@ -9,6 +9,102 @@
 
 <body class="body">
 
+  <style type="css">
+  body{
+      background-color: #222831 ;
+  }
+
+  #header {
+     width: 100vw;
+  }
+
+  #Instagram {
+      float: left;
+      width: 40vw;
+      margin-left: 5vw;
+      margin-top: 3vw;
+  }
+
+  #FaceBook {
+      float: right;
+      position: relative;
+      width: 40vw;
+      margin-top: 3vw;
+      margin-right: 5vw;
+  }
+
+  #WhastApp {
+      float: left;
+      width: 40vw;
+      margin-left: 5vw;
+      margin-top: 8vw;
+  }
+
+  #pinterest {
+      float: right;
+      position: relative;
+      width: 40vw;
+      margin-top: 8vw;
+      margin-right: 5vw;
+  }
+
+  #blog {
+     float: right;
+     position: relative;
+     width: 40vw;
+     margin-top: 8vw;
+     margin-right: 5vw;
+  }
+
+  @media screen and (min-width: 1200px){
+      #header {
+           display: block;
+           margin-left: auto;
+           margin-right: auto;
+           width: 800px;
+       }
+
+       #Instagram {
+           float: left;
+           width: 300px;
+           margin-left: 25%;
+           margin-top: 3vw;
+       }
+
+       #FaceBook {
+           float: center;
+           position: relative;
+           width: 300px;
+           margin-top: 3vw;
+           margin-right: 25%;
+       }
+
+       #WhastApp {
+          float: left;
+          width: 300px;
+          margin-left: 25%;
+          margin-top: 3vw;
+      }
+       #Pinterest {
+         float: center;
+         position: relative;
+         width: 300px;
+         margin-top: 3vw;
+         margin-right: 25%;
+      }
+
+      #Blog {
+        float: center;
+        position: relative;
+        width: 300px;
+        margin-top: 3vw;
+        margin-right: 25%;
+      }
+
+  }
+
+</style>
+
     <img src="https://i.ibb.co/jw8R4Gj/20200318-210653-0000.png" alt="rifki ahmad" id="header"> <br>
     <a href="https://www.instagram.com/t.rifkiahmd/">
         <img src="https://i.ibb.co/7yK3V5V/images.png" alt="instagram Link" id="instagram">

@@ -40,7 +40,7 @@
   }
 
   #pinterest {
-      float: right;
+      float: left;
       position: relative;
       width: 40vw;
       margin-top: 8vw;

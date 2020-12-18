@@ -1,10 +1,7 @@
-<body class="body" bg color= #222831
-
-  <style>
       body{
       background-color: #222831 ;
   }
-    
+
   #header {
      width: 100vw;
   }
@@ -24,12 +21,11 @@
       margin-right: 5vw;
   }
 
-
   #pinterest {
       float: left;
       width: 40vw;
-      margin-top: 5vw;
-      margin-right: 8vw;
+      margin-left: 5vw;
+      margin-top: 8vw;
   }
 
   #blog {
@@ -64,20 +60,18 @@
        }
 
        #Pinterest {
-         float: left;
+          float: left;
+          width: 300px;
+          margin-left: 25%;
+          margin-top: 3vw;
+      }
+      
+      #Blog {
+         float: center;
+         position: relative;
          width: 300px;
          margin-top: 3vw;
          margin-right: 25%;
       }
 
-      #Blog {
-        float: center;
-        position: relative;
-        width: 300px;
-        margin-top: 25vw;
-        margin-right: 3%;
-      }
-
   }
-
-</style>

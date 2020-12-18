@@ -32,12 +32,6 @@
       margin-right: 5vw;
   }
 
-  #WhastApp {
-      float: left;
-      width: 40vw;
-      margin-left: 5vw;
-      margin-top: 8vw;
-  }
 
   #pinterest {
       float: right;
@@ -50,8 +44,8 @@
   #blog {
      float: right;
      width: 40vw;
-     margin-top: 8vw;
-     margin-right: 5vw;
+     margin-top: 5vw;
+     margin-right: 8vw;
   }
 
   @media screen and (min-width: 1200px){
@@ -77,12 +71,6 @@
            margin-right: 25%;
        }
 
-       #WhastApp {
-          float: left;
-          width: 300px;
-          margin-left: 25%;
-          margin-top: 3vw;
-      }
        #Pinterest {
          float: right;
          position: relative;
@@ -94,8 +82,8 @@
       #Blog {
         float: right;
         width: 300px;
-        margin-top: 3vw;
-        margin-right: 25%;
+        margin-top: 25vw;
+        margin-right: 3%;
       }
 
   }
@@ -109,9 +97,6 @@
     <a href="https://www.facebook.com/t.rifkiahmd">
         <img src="https://i.ibb.co/9cxmdrC/facebook-2935402-1280.png" alt="FaceBook Link" id="FaceBook">
     </a> <br>
-    <a href="https://wa.me/message/VLRZJZJDV56AA1">
-        <img src="https://i.ibb.co/vPL45S4/whatsapp-2935415-1280.png" alt="WA iki" id="WhastApp">
-    </a>
     <a href="https://id.pinterest.com/rifkiahmad0718/_saved/">
         <img src="https://i.ibb.co/BCJQkWJ/pinterest-2935409-1280.png" alt="pinterest link" id="Pinterest">
     </a> <br>

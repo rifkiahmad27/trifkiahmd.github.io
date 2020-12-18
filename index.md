@@ -49,7 +49,6 @@
 
   #blog {
      float: right;
-     position: relative;
      width: 40vw;
      margin-top: 8vw;
      margin-right: 5vw;
@@ -94,7 +93,6 @@
 
       #Blog {
         float: center;
-        position: relative;
         width: 300px;
         margin-top: 3vw;
         margin-right: 25%;

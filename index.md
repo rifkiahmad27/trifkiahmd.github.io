@@ -25,7 +25,7 @@
   }
 
   #FaceBook {
-      float: right;
+      float: left;
       position: relative;
       width: 40vw;
       margin-top: 3vw;
@@ -33,14 +33,14 @@
   }
 
   #WhastApp {
-      float: right;
+      float: left;
       width: 40vw;
       margin-left: 5vw;
       margin-top: 8vw;
   }
 
   #pinterest {
-      float: left;
+      float: right;
       position: relative;
       width: 40vw;
       margin-top: 8vw;
@@ -70,7 +70,7 @@
        }
 
        #FaceBook {
-           float: right;
+           float: left;
            position: relative;
            width: 300px;
            margin-top: 3vw;
@@ -78,13 +78,13 @@
        }
 
        #WhastApp {
-          float: right;
+          float: left;
           width: 300px;
           margin-left: 25%;
           margin-top: 3vw;
       }
        #Pinterest {
-         float: left;
+         float: right;
          position: relative;
          width: 300px;
          margin-top: 3vw;
@@ -92,7 +92,7 @@
       }
 
       #Blog {
-        float: center;
+        float: right;
         width: 300px;
         margin-top: 3vw;
         margin-right: 25%;

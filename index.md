@@ -35,17 +35,17 @@
 
   #pinterest {
       float: left;
-      position: relative;
       width: 40vw;
-      margin-top: 8vw;
-      margin-right: 5vw;
+      margin-top: 5vw;
+      margin-right: 8vw;
   }
 
   #blog {
      float: right;
+     position: relative;
      width: 40vw;
-     margin-top: 5vw;
-     margin-right: 8vw;
+     margin-top: 8vw;
+     margin-right: 5vw;
   }
 
   @media screen and (min-width: 1200px){
@@ -64,7 +64,7 @@
        }
 
        #FaceBook {
-           float: right;
+           float: center;
            position: relative;
            width: 300px;
            margin-top: 3vw;
@@ -72,7 +72,7 @@
        }
 
        #Pinterest {
-         float: left;
+         float: center;
          position: relative;
          width: 300px;
          margin-top: 3vw;
@@ -80,7 +80,7 @@
       }
 
       #Blog {
-        float: right;
+        float: left;
         width: 300px;
         margin-top: 25vw;
         margin-right: 3%;

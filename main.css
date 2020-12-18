@@ -64,15 +64,15 @@
        }
 
        #Pinterest {
-         float: center;
-         position: relative;
+         float: left;
          width: 300px;
          margin-top: 3vw;
          margin-right: 25%;
       }
 
       #Blog {
-        float: left;
+        float: center;
+        position: relative;
         width: 300px;
         margin-top: 25vw;
         margin-right: 3%;

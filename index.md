@@ -119,7 +119,3 @@
     </a> <br>
     <a href="https://rifkiquote.blogspot.com/">
         <img src="https://i.ibb.co/6Wcbq87/1187595.jpg" alt="blog link" id="blog">
-</body>
-
-</body>
-</html>
